@@ -1,0 +1,30 @@
+{
+  "abierta": true,
+  "fecha_apertura": "2026-02-24",
+  "hora_apertura": "18:00:18",
+  "fecha_cierre": null,
+  "hora_cierre": null,
+  "usuario": "JOHAN ROMERO",
+  "ventas_del_dia": [
+    {
+      "fecha": "2026-02-24 18:00:37.495264",
+      "codigo": "2345678",
+      "nombre": "NAPROXENO",
+      "precio": 500.0,
+      "vendedor": "JOHAN ROMERO",
+      "factura": 1004
+    },
+    {
+      "fecha": "2026-02-24 18:26:46.692860",
+      "codigo": "2345678",
+      "nombre": "NAPROXENO",
+      "precio": 500.0,
+      "vendedor": "JOHAN ROMERO",
+      "factura": 1005
+    }
+  ],
+  "total_ventas": 1000.0,
+  "efectivo_inicial": 20000.0,
+  "efectivo_final": 0,
+  "ultima_factura": 1005
+}

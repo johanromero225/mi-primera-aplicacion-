@@ -1,0 +1,92 @@
+[
+  {
+    "numero": 1001,
+    "fecha": "2026-02-24",
+    "hora": "17:57:24",
+    "vendedor": "johan romero",
+    "items": [
+      {
+        "codigo": "2345678",
+        "nombre": "NAPROXENO",
+        "cantidad": 1,
+        "precio": 500.0,
+        "subtotal": 500.0
+      }
+    ],
+    "total": 500.0,
+    "pago": 500.0,
+    "cambio": 0.0
+  },
+  {
+    "numero": 1002,
+    "fecha": "2026-02-24",
+    "hora": "17:57:41",
+    "vendedor": "johan romero",
+    "items": [
+      {
+        "codigo": "2345678",
+        "nombre": "NAPROXENO",
+        "cantidad": 1,
+        "precio": 500.0,
+        "subtotal": 500.0
+      }
+    ],
+    "total": 500.0,
+    "pago": 500.0,
+    "cambio": 0.0
+  },
+  {
+    "numero": 1003,
+    "fecha": "2026-02-24",
+    "hora": "17:57:52",
+    "vendedor": "johan romero",
+    "items": [
+      {
+        "codigo": "2345678",
+        "nombre": "NAPROXENO",
+        "cantidad": 1,
+        "precio": 500.0,
+        "subtotal": 500.0
+      }
+    ],
+    "total": 500.0,
+    "pago": 500.0,
+    "cambio": 0.0
+  },
+  {
+    "numero": 1004,
+    "fecha": "2026-02-24",
+    "hora": "18:00:37",
+    "vendedor": "JOHAN ROMERO",
+    "items": [
+      {
+        "codigo": "2345678",
+        "nombre": "NAPROXENO",
+        "cantidad": 1,
+        "precio": 500.0,
+        "subtotal": 500.0
+      }
+    ],
+    "total": 500.0,
+    "pago": 500.0,
+    "cambio": 0.0
+  },
+  {
+    "numero": 1005,
+    "fecha": "2026-02-24",
+    "hora": "18:26:46",
+    "vendedor": "JOHAN ROMERO",
+    "items": [
+      {
+        "codigo": "2345678",
+        "nombre": "NAPROXENO",
+        "cantidad": 1,
+        "precio": 500.0,
+        "subtotal": 500.0
+      }
+    ],
+    "total": 500.0,
+    "pago": 500.0,
+    "cambio": 0.0
+  }
+]

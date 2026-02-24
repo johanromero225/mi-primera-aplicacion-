@@ -1,0 +1,17 @@
+[
+  {
+    "fecha_compra": "2026-02-24",
+    "fecha_registro": "2026-02-24 17:46:39.233148",
+    "codigo_producto": "2345678",
+    "nombre_producto": "NAPROXENO",
+    "cantidad": 5,
+    "precio_compra": 200.0,
+    "precio_venta": 500.0,
+    "proveedor": "",
+    "numero_factura": "1",
+    "notas": "",
+    "laboratorio": "BAYER",
+    "categoria": "ANALGESICO",
+    "fecha_vencimiento": "2026-02-27"
+  }
+]
